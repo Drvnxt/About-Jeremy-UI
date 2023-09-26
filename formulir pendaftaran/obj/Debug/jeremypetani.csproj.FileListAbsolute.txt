@@ -1,0 +1,10 @@
+C:\Users\jerem\OneDrive\Documents\Pelajaran\Vispro\jeremypetani\bin\Debug\jeremypetani.exe.config
+C:\Users\jerem\OneDrive\Documents\Pelajaran\Vispro\jeremypetani\bin\Debug\jeremypetani.exe
+C:\Users\jerem\OneDrive\Documents\Pelajaran\Vispro\jeremypetani\bin\Debug\jeremypetani.pdb
+C:\Users\jerem\OneDrive\Documents\Pelajaran\Vispro\jeremypetani\obj\Debug\jeremypetani.csproj.AssemblyReference.cache
+C:\Users\jerem\OneDrive\Documents\Pelajaran\Vispro\jeremypetani\obj\Debug\jeremypetani.Form1.resources
+C:\Users\jerem\OneDrive\Documents\Pelajaran\Vispro\jeremypetani\obj\Debug\jeremypetani.Properties.Resources.resources
+C:\Users\jerem\OneDrive\Documents\Pelajaran\Vispro\jeremypetani\obj\Debug\jeremypetani.csproj.GenerateResource.cache
+C:\Users\jerem\OneDrive\Documents\Pelajaran\Vispro\jeremypetani\obj\Debug\jeremypetani.csproj.CoreCompileInputs.cache
+C:\Users\jerem\OneDrive\Documents\Pelajaran\Vispro\jeremypetani\obj\Debug\jeremypetani.exe
+C:\Users\jerem\OneDrive\Documents\Pelajaran\Vispro\jeremypetani\obj\Debug\jeremypetani.pdb
